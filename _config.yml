@@ -3,7 +3,7 @@ title: Zhongchi Li
 position: Social Psychology PhD Student
 affiliation: University of Florida
 #affiliation_link: https://cs.jhu.edu/
-affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
+#affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
 email: zhongchili@ufl.edu
 #email2: yliu538 (at) jhu.edu
 
@@ -20,13 +20,14 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
+cv_link: 
+google_scholar: 
 #github_link: https://github.com/yaoyao-liu/
 linkedin: https://www.linkedin.com/in/zhongchili/
 twitter: https://twitter.com/ZhongchiLi52/
 
 # Images 
-avatar: ./assets/img/favicon.png
+#avatar: ./assets/img/favicon.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
