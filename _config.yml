@@ -1,19 +1,19 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Postdoctoral Fellow
-affiliation: Johns Hopkins University
+title: Zhongchi Li
+position: Social Psychology PhD Student
+affiliation: University of Florida
 affiliation_link: https://cs.jhu.edu/
 affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
-email: yyliu (at) cs.jhu.edu
-email2: yliu538 (at) jhu.edu
+email: zhongchili@ufl.edu
+#email2: yliu538 (at) jhu.edu
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.cs.jhu.edu/~yyliu/
-description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
+keywords: zhongchi li, li zhongchi, lizhongchi, zhongchili, zhongchili uf
+canonical: https://zhongchili52.github.io
+description: Zhongchi Li's Personal Website
 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
