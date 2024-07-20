@@ -49,18 +49,9 @@
       .topnav a.icon {
         display: block;
 	color: black;
-	position: fixed;
+	position: absolute;
         float: right;
 	margin-right:3%;
-      }
-       .topnav a.right {
-        color: black;
-        float: none;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 18px;
-        display: block;
-        margin-right:0;
       }
    }
 
