@@ -6,6 +6,6 @@
 <br />
 <strong>Office Location:</strong> Psychology Building 230
 <br />
-<strong>Email:</strong> <mailto:zhongchili@ufl.edu>
+<strong>Email:</strong> <a href="mailto:zhongchili\@ufl.edu"><email>zhongchili\@ufl.edu</email></a>
 <br />
 <strong>Phone:</strong> (412) 785-4452</p>
