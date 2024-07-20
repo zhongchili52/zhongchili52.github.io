@@ -36,7 +36,7 @@
     <script type="text/javascript">
       function toggle_vis(id) {
           var e = document.getElementById(id);
-          if (e.style.display == 'none')
+          if (e.style.display === 'none')
               e.style.display = 'inline';
           else
               e.style.display = 'none';
@@ -63,7 +63,6 @@
 
       <div id="myLinks">
       {% include navigation.md %}
-      <a href="#" class="normal">Home</a>
       </div>
 
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
