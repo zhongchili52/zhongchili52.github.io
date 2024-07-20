@@ -44,16 +44,11 @@
    </script>
 
    <script>
-      function myFunction(id) {
-      var x = document.getElementById(id);
-      if (x.style.display === "block")
-        x.style.display = "none";
-      else
-        x.style.display = "block";
-      }
+      function myFunction() {
+      var x = document.getElementById("myLinks");
+      x.classList.toggle("show");
    </script>
-   
-
+    
   </head>
   <body>
     
@@ -65,7 +60,7 @@
       {% include navigation.md %}
       </div>
 
-      <a href="javascript:void(0);" class="icon" onclick="myFunction("myLinks")">
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <i class="fa fa-bars"></i>
       </a>
       
