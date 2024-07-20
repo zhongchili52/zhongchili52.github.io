@@ -12,7 +12,7 @@
   }
 
 .topnav a.icon {
-    display: none;
+    display: block;
   }
 
   .topnav img {
@@ -73,9 +73,6 @@
         display: block;
         margin-right:0;
       }
-     .topnav #myLinks {
-	display: none;
-    }
    }
 
  @media print, screen and (max-width: 1000px){ 
