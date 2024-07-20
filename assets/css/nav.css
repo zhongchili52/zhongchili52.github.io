@@ -42,7 +42,7 @@
     margin-right:30%;
   }
 
- @media print, screen and (max-width: 600px) { 
+ @media print, screen and (max-width: 1000px) { 
     .topnav #myLinks {
         display: none;
       }
@@ -81,7 +81,7 @@
       }
    }
 
-  @media print, screen and (max-width: 1000px){ 
+ /* @media print, screen and (max-width: 1000px){ 
 
     .topnav img {
         margin-left:3%;
@@ -95,7 +95,7 @@
         padding: 10px 5px;
     }
 
-   }
+   } */
 
    @media print, screen and (max-width: 1200px) and (min-width: 1001px) { 
 
