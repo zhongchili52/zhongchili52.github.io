@@ -49,7 +49,9 @@
       .topnav a.icon {
         display: block;
 	color: black;
+	position: absolute;
         float: right;
+	margin-right:5%;
       }
    }
 
