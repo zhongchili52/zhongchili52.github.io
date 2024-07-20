@@ -104,10 +104,5 @@
       }
 
    }
-
-  
-   @media print, screen and (max-width: 480px) { .topnav { visibility: hidden; } .topnav { visibility: hidden; } }
-
-   @media print, screen and (max-width: 960px) { .topnav { visibility: hidden; } .topnav { visibility: hidden; } }
    
 
