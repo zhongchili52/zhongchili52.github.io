@@ -7,7 +7,7 @@ affiliation_link: https://psych.ufl.edu/social-psychology/people/
 email: zhongchili@ufl.edu
 
 # Search Engine Optimization (SEO)
-keywords: zhongchi li, li zhongchi, lizhongchi, zhongchili, zhongchili uf, lizhongchi uf
+keywords: zhongchi li, li zhongchi, lizhongchi, zhongchili, zhongchili uf, lizhongchi uf, zhongchi li psych
 canonical: https://zhongchili52.github.io
 description: Zhongchi Li's Personal Website
 
@@ -26,7 +26,7 @@ linkedin: https://www.linkedin.com/in/zhongchili/
 twitter: https://twitter.com/ZhongchiLi52/
 
 # Images 
-avatar: ./assets/img/favicon.png
+avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon.png
 
