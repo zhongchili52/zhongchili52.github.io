@@ -44,9 +44,9 @@
   }
 
  @media print, screen and (max-width: 600px) { 
-    .topnav #myLinks {
-        display: none;
-      }
+    #.topnav #myLinks {
+     #   display: none;
+      #}
       .topnav a.normal {
         color: black;
         float: none;
@@ -79,7 +79,7 @@
       }
    }
 
-  @media print, screen and (max-width: 1000px) and (min-width: 601px){ 
+  @media print, screen and (max-width: 1000px){ 
 
     .topnav img {
         margin-left:3%;
