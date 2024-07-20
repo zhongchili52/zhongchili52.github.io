@@ -2,13 +2,12 @@
 title: Zhongchi Li
 position: Social Psychology PhD Student
 affiliation: University of Florida
-#affiliation_link: https://cs.jhu.edu/
+affiliation_link: https://psych.ufl.edu/social-psychology/people/
 #affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
 email: zhongchili@ufl.edu
-#email2: yliu538 (at) jhu.edu
 
 # Search Engine Optimization (SEO)
-keywords: zhongchi li, li zhongchi, lizhongchi, zhongchili, zhongchili uf
+keywords: zhongchi li, li zhongchi, lizhongchi, zhongchili, zhongchili uf, lizhongchi uf
 canonical: https://zhongchili52.github.io
 description: Zhongchi Li's Personal Website
 
@@ -29,7 +28,7 @@ twitter: https://twitter.com/ZhongchiLi52/
 # Images 
 #avatar: ./assets/img/favicon.png
 favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon_dark: ./assets/img/favicon.png
 
 # Footnotes
 #footnote: 
