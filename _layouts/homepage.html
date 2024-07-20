@@ -46,11 +46,10 @@
    <script>
       function myFunction() {
       var x = document.getElementById("myLinks");
-      if (x.style.display === "none") {
+      if (x.style.display === "none")
         x.style.display = "block";
-      } else {
+      else
         x.style.display = "none";
-      }
       }
    </script>
    
@@ -64,6 +63,7 @@
 
       <div id="myLinks">
       {% include navigation.md %}
+      <a href="#" class="normal">Home</a>
       </div>
 
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
