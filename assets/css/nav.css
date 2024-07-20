@@ -45,7 +45,7 @@
 
  @media print, screen and (max-width: 600px) { 
     .topnav #myLinks {
-        display: inline-block;
+        display: block;
       }
       .topnav a.normal {
         color: black;
