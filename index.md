@@ -1,5 +1,7 @@
 ---
 layout: homepage
+permalink: homepage
+title: Homepage
 ---
 <h1 id="about-me"></h1>
 
