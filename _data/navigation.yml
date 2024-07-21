@@ -1,7 +1,7 @@
 main:
   
   - title: "Contact"
-    url: ./contact.html
+    url: ./#contact
     right: true
   
   - title: "Publications"
