@@ -5,7 +5,7 @@ main:
     right: true
     
   - title: "Publications"
-    url: ./publications/
+    url: /publications/
 
   - title: "About Me"
     url: /
