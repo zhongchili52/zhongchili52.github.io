@@ -1,7 +1,7 @@
 main:
   
   - title: "Contact"
-    url: /_layouts/contact.html
+    url: /contact/
     right: true
   
   - title: "Publications"
