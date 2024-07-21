@@ -30,6 +30,14 @@ avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon.png
 
+# Permalinks
+permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
 # Footnotes
 #footnote: 
 #footnote_link: https://github.com/yaoyao-liu/minimal-light
