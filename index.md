@@ -11,7 +11,7 @@ I employ interdisciplinary methodologies to study the multifaceted dimensions of
 
 My research focuses on exploring factors that impact relational, sexual, and mental health and well-being, as well as the cognitive and behavioral mechanisms that shape these aspects. A significant portion of my work is dedicated to historically underrepresented and stigmatized populations, including LGBTQ+ individuals, single individuals, and racial/ethnic minorities. By shedding light on the unique challenges and resilience of these groups, I aim to contribute to a more inclusive and comprehensive understanding of health disparities and provide potential interventions.
 
-{% include_relative _includes/contact.md %}
+<!-- {% include_relative _includes/contact.md %} -->
 
 <!--
 <h1 id="about-me"></h1>
