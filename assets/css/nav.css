@@ -52,9 +52,10 @@
 	padding: 10px 16px;
         font-size: 18px;
         float: right;
+	position: relative
 	right: 0;
         top: 0;
-	margin-right:3%;
+	margin-right:5%;
       }
       .topnav a.normal {
         color: black;
