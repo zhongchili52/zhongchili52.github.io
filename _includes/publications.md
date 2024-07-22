@@ -10,7 +10,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 15px;max-width: 800px; margin: auto;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <abbr class="badge">{{ link.conference_short }}</abbr>
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
