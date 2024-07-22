@@ -9,7 +9,7 @@
 {% for link in site.data.publications.main %}
 
 <li>
-<div class="pub-row" style="display: grid;grid-template-columns: 150px 1fr;gap: 15px;">
+<div class="pub-row" style="display: grid;grid-template-columns: 120px 1fr;gap: 15px;">
   <div class="col-sm-3" style="align-self: start;position: relative;padding-right: 15px;padding-left: 15px;">
       {{ link.conference_short }}
   </div>
