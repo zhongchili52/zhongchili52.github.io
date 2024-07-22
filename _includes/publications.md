@@ -10,7 +10,7 @@
 
 <li>
 <div class="pub-row">
-  <div style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div style="display: flex; align-items: flex-start;position: relative;padding-right: 15px;padding-left: 15px;">
       {{ link.conference_short }}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 15px;">
