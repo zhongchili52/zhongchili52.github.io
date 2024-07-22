@@ -9,7 +9,7 @@
 {% for link in site.data.publications.main %}
 
 <li>
-<div class="pub-row">
+<div class="pub-row" style="display: flex; align-items: flex-start;">
   <div class="col-sm-3" style="display: flex; align-items: flex-start;position: relative;padding-right: 15px;padding-left: 15px;">
       {{ link.conference_short }}
   </div>
