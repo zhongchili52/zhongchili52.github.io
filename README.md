@@ -1,6 +1,6 @@
 # Zhongchi Li's Personal Website
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/main/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/zhongchili52/zhongchili52.github.io/blob/main/LICENSE)
 
 ### Google Scholar Crawler
 
