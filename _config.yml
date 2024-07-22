@@ -10,8 +10,7 @@ email: zhongchili@ufl.edu
 keywords: zhongchi li, li zhongchi, lizhongchi, zhongchili, zhongchili uf, lizhongchi uf, zhongchi li psych
 canonical: https://zhongchili52.github.io
 baseurl: ""
-description: Zhongchi Li's Personal Website
-
+description: Zhongchi Li is a Social Psychology Ph.D. student at University of Florida studying relational/sexual/mental health & well-being, social cognition, and emotion. He integrates the principles of social and cognitive psychology with advanced techniques from machine learning, computational modeling, and engineering to better capture and analyze the complexity of health-related issues and human behaviors.
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
 
@@ -22,7 +21,7 @@ enable_last_update: false
 link_type: icon #text/icon
 cv_link: 
 google_scholar: 
-#github_link: https://github.com/yaoyao-liu/
+#github_link: 
 linkedin: https://www.linkedin.com/in/zhongchili/
 twitter: https://twitter.com/ZhongchiLi52/
 
@@ -41,12 +40,12 @@ plugins:
 
 # Footnotes
 #footnote: 
-#footnote_link: https://github.com/yaoyao-liu/minimal-light
+#footnote_link:
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-#clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
+#clustrmaps_id: 
 
 # The following files will be removed from the generated website.
 exclude:
