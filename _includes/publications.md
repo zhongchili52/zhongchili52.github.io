@@ -10,14 +10,14 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="pub-row" style="position: relative; padding-right: 15px; padding-left: 15px; max-width: 800px; margin: auto;">
     <!-- Badge section with inline styles from YAML -->
-      <abbr class="badge">{{ link.conference_short}}</abbr>
-  </div>
-  <div class="col-sm-12" style="position: relative; padding-right: 15px; padding-left: 15px; max-width: 800px; margin: auto;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
+    <abbr class="badge" style="margin-right: 10px;">{{ link.conference_short | safe }}</abbr>
+    <div style="display: inline-block;">
+      <div class="title"><a href="{{ link.pdf }}">{{ link.title | safe }}</a></div>
+      <div class="author">{{ link.authors | safe }}</div>
       <div class="periodical"><em>{{ link.conference }}</em></div>
+    </div>
     <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
