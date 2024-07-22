@@ -9,11 +9,11 @@
 {% for link in site.data.publications.main %}
 
 <li>
-<div class="pub-row" style="display: table;width: 100%;">
-  <div class="col-sm-3" style="display: table-cell; vertical-align: top; position: relative;padding-right: 15px;padding-left: 15px;">
+<div class="pub-row" display: grid;grid-template-columns: 150px 1fr;gap: 15px;">
+  <div class="col-sm-3" style="align-self: start;position: relative;padding-right: 15px;padding-left: 15px;">
       {{ link.conference_short }}
   </div>
-  <div class="col-sm-9" style="display: table-cell;position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em></div>
