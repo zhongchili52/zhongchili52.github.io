@@ -10,7 +10,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3" style="position: relative;">
+  <div class="col-sm-3" style="position: fixed;">
       <div class="badge">{{ link.conference_short }}</div>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 16px;">
