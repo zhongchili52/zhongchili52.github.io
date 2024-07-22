@@ -10,8 +10,8 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3" style="position: absolute;top: 0px">
-      <div class="badge"">{{ link.conference_short }}</div>
+  <div class="col-sm-3" style="position: relative;top: 0px">
+      <abbr class="badge"">{{ link.conference_short }}</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
