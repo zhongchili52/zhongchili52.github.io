@@ -10,9 +10,11 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-12" style="position: relative; padding-right: 15px; padding-left: 15px; max-width: 800px; margin: auto;">
-      <!-- Badge section with inline styles from YAML -->
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <!-- Badge section with inline styles from YAML -->
       <abbr class="badge">{{ link.conference_short}}</abbr>
+  </div>
+  <div class="col-sm-12" style="position: relative; padding-right: 15px; padding-left: 15px; max-width: 800px; margin: auto;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em></div>
