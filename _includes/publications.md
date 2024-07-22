@@ -17,7 +17,7 @@
       <span style="display: inline;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
+      <div class="periodical"><em>{{ link.conference }}</em></div>
       </span>
   </div>
     <div class="links">
