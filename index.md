@@ -11,4 +11,4 @@ I am currently a Ph.D. student in the Department of Psychology at [University of
 
 My research broadly centers around health disparities (e.g., sexual health inequities, minority stress, mental health disorders) among intersectional minority groups and ways to foster resilience. I am also fascinated by employing novel and advanced techniques in machine learning, data mining, computational modeling, and engineering to tackle the complexity and nonlinearity inherent in psychological and behavioral science. A significant portion of my work is dedicated to historically underrepresented and stigmatized populations, including LGBTQ+ individuals, single individuals, and racial/ethnic minorities. By shedding light on the unique challenges and resilience of these groups, I aim to contribute to a more inclusive and comprehensive understanding of health disparities and develop potential interventions.
 
-<i><font color="#fd5e53">Feel free to contact me for potential collaboration.</font></i>
+<em><font color="#fd5e53">Feel free to contact me for potential collaboration!</font></em>
