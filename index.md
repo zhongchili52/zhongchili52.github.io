@@ -13,4 +13,4 @@ My research broadly centers around health disparities (e.g., minority stress, me
 
 You can pronounce my first name like Jong-Chr. My name written by Chinese is 李仲篪.
 
-<em><font color="#fd5e53">Feel free to contact me for potential collaboration!</font></em>
+<em><font color="#fd5e53">Feel free to contact me for potential collaborations!</font></em>
