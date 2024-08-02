@@ -11,6 +11,6 @@ I am currently a Ph.D. student in the Department of Psychology at [University of
 
 My research broadly centers around health disparities (e.g., minority stress, mental health disorders, sexual health inequities) and resilience among intersectional minorities. I am also interested in the social and cognitive mechanisms of behaviors which have multifaceted influences on health and well-being. I am fascinated by employing novel and advanced techniques in machine learning, statistical and computational modeling, and engineering to enhance detection and prediction accuracy and tackle the complexity and nonlinearity inherent in psychological and behavioral sciences. A significant portion of my work is dedicated to historically underrepresented and stigmatized populations, including LGBTQ+ individuals, single individuals, and racial/ethnic minorities. By shedding light on the unique challenges and resilience of these groups, I aim to contribute to a more inclusive and comprehensive understanding of health and well-being and develop potential interventions.
 
-You can pronounce my first name like Jong-Chr. My name written by Chinese is 李仲篪.
+You can pronounce my first name like <em>Jong-Chr</em>. My name written by Chinese is 李仲篪.
 
 <em><font color="#fd5e53">Feel free to contact me for potential collaborations!</font></em>
