@@ -3,9 +3,6 @@ main:
   - title: "Contact"
     url: /contact/
     right: true
-    
-  - title: "Publications"
-    url: /publications/
-
+  
   - title: "About Me"
     url: /
