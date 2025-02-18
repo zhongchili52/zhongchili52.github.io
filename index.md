@@ -9,6 +9,4 @@ permalink: /
 
 I am currently a Ph.D. student in the Department of Psychology at [University of Florida](https://psych.ufl.edu/social-psychology/people/) advised by [Dr. Gregory Webster](https://www.gdwebster.com/) and Minor in [Computer & Information Science & Engineering](https://www.cise.ufl.edu/) advised by [Dr. Emmanuel Dorley](https://www.emmanueldorley.com/#intro). I received my <font color="#fd5e53">M.S. in Electrical and Computer Engineering</font> at [Carnegie Mellon University](https://www.ece.cmu.edu/) where I also worked closely with [Dr. Brooke Feeney](https://www.cmu.edu/dietrich/psychology/relationships-lab/brooke-feeney-associate-professor.html) and [Dr. David Creswell](https://www.healthandhumanperformancelab.com/people). I received my <font color="#fd5e53">B.Eng. in Information Engineering</font> at [Southeast University](https://www.seu.edu.cn/english/) where I graduated from the [Chien-Shiung Wu Honored College](https://wjx.seu.edu.cn/wjxen/).
 
-I study consumer behavior and marketing strategies in the context of prevalent digital technologies combining interdisciplinary methodologies, and explore applications of artificial intelligence (machine learning, deep learning, NLP, LLMs) in marketing and psychology.
-
-You can pronounce my first name like <em>Jong-Chr</em>. My name written in Chinese is 李仲篪.
+I study 1) how AI technology influences consumer judgement and decision making and 2) how machine learning and LLMs innovate social and behavioral science research.
