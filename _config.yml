@@ -21,10 +21,10 @@ enable_last_update: false
 # Links
 link_type: icon #text/icon
 cv_link: ./CV-Zhongchi-Li.pdf
-orcid: "https://orcid.org/0009-0008-5036-2727"
+orcid: https://orcid.org/0009-0008-5036-2727
 google_scholar: "https://scholar.google.com/citations?user=ijlkvfYAAAAJ&hl=en"
 linkedin: https://www.linkedin.com/in/zhongchili/
-twitter: https://twitter.com/ZhongchiLi52/
+#twitter: https://twitter.com/ZhongchiLi52/
 
 # Images 
 avatar: ./assets/img/avatar.png
